@@ -1,0 +1,6 @@
+difference between structure and union :-
+
+structure:-total size of datypes ddeclared
+union:- largest datatype declared
+
+union:- 20 bytes
